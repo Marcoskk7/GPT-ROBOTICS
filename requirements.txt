@@ -1,0 +1,68 @@
+# Core dependencies
+numpy>=1.26.0
+torch>=2.4.1
+torchvision>=0.19.1
+
+# SAPIEN simulation framework
+sapien>=3.0.0b1
+
+# Motion planning
+mplib>=0.2.1
+
+# Computer vision and image processing
+opencv-python>=4.11.0
+pillow>=11.2.0
+imageio>=2.34.2
+scikit-image>=0.25.2
+
+# 3D processing
+open3d>=0.18.0
+trimesh>=4.4.3
+pytorch3d>=0.7.8
+transforms3d>=0.4.2
+pyquaternion>=0.9.9
+
+# Robotics and control
+gymnasium>=0.29.1
+gym>=0.26.2
+toppra>=0.6.3
+
+# Data science and ML
+pandas>=2.2.3
+scikit-learn>=1.6.1
+scipy>=1.11.3
+matplotlib>=3.10.1
+
+# Configuration and utilities
+hydra-core>=1.2.0
+omegaconf>=2.3.0
+addict>=2.4.0
+pydantic>=2.11.3
+PyYAML>=6.0.2
+
+# Web interface (for LLM integration)
+requests>=2.32.3
+httpx>=0.28.1
+openai>=1.85.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.1.1
+jupyterlab>=4.4.2
+ipywidgets>=8.1.6
+
+# Visualization
+plotly>=6.0.1
+dash>=3.0.4
+
+# File handling
+gdown>=5.2.0
+tqdm>=4.67.1
+
+# Development tools
+click>=8.1.8
+rich>=14.0.0
+
+# Additional utilities
+zarr>=2.18.3
+lxml>=5.4.0
+beautifulsoup4>=4.13.4
