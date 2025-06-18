@@ -1,0 +1,41 @@
+aloha-agilex-1:
+  file_path: "./assets/embodiments/aloha-agilex-1/"
+
+aloha-agilex-2:
+  file_path: "./assets/embodiments/aloha-agilex-2/"
+
+aloha-pika:
+  file_path: "./assets/embodiments/aloha-pika/"
+
+amao:
+  file_path: "./assets/embodiments/amao/"
+
+piper:
+  file_path: "./assets/embodiments/piper"
+
+franka-panda:
+  file_path: "./assets/embodiments/franka-panda/"
+
+ur5-robotic85-gripper:
+  file_path: "./assets/embodiments/ur5-robotic85-gripper"
+
+lwr:
+  file_path: "./assets/embodiments/lwr"
+
+jaco:
+  file_path: "./assets/embodiments/jaco"
+
+dh_ag95:
+  file_path: "./assets/embodiments/dh_ag95"
+
+aloha-agilex-1-tactile:
+  file_path: "./assets/embodiments/aloha-agilex-1-tactile"
+
+panda:
+  file_path: "./assets/embodiments/panda"
+
+# RoboTwin 2.0 TPAMI: RoboTwin update + tactile
+# RoboTwin 3.0 NeurIPS dataset: data collector for manipulation scaling
+# VLA 3 papers 
+# RoboTwin 1.0 CVPR (author)
+# RoboTwin -> yubin

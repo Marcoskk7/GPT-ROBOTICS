@@ -1,0 +1,11 @@
+gelsight_mini_e430:
+  bias: 0.02
+  thickness: 0.004 
+  intrinsic: [836, 836, 480, 480, 0]
+  path: gelsight_mini_e430
+
+pika:
+  bias: 0.02
+  thickness: 0.003
+  intrinsic: [640, 640, 480, 480, 0]
+  path: pika

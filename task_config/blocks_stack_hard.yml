@@ -1,0 +1,31 @@
+task_name: blocks_stack_hard
+random_texture: false
+messy_table: false
+render_freq: 10
+eval_video_log: true
+collect_data: true
+episode_num: 100
+random_camera: false
+random_embodiment: false
+embodiment:
+- aloha-agilex-1
+head_camera_type: D435
+wrist_camera_type: D435
+collect_head_camera: true
+collect_wrist_camera: true
+data_type:
+  rgb: true
+  observer: false
+  depth: true
+  pointcloud: true
+  endpose: true
+  qpos: true
+  mesh_segmentation: false
+  actor_segmentation: false
+use_seed: false
+dual_arm: true
+save_path: ./data
+pcd_down_sample_num: 1024
+pcd_crop: true
+save_freq: 15
+st_episode: 0
