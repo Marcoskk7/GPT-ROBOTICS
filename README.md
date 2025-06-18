@@ -1,4 +1,4 @@
-# LLM-Enhanced Robotic Manipulation System
+# LLM-Powered Robotic Manipulation: Natural Language Control 
 
 🤖 **An Intelligent Robotics System Integrating Large Language Models with Panda Robot for Complex Manipulation Tasks**
 
